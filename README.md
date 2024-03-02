@@ -1,5 +1,5 @@
 # Algorithms-and-Data-Structures-AGH-UST
-ASD course at AGH UST 2023/24 - Containing sorting, graph, and dynamic algorithms
+ASD course at AGH UST 2022/23 - Containing sorting, graph, and dynamic algorithms
 ## Contents
 - **Sorting Algorithms**
     - Bubble Sort
